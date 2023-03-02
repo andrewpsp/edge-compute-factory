@@ -1,4 +1,4 @@
-FROM spack/ubuntu-jammy As OciOSbase
+FROM ubuntu:latest As OciOSbase
 
 
 LABEL vendor=BOdataFactory \
@@ -8,5 +8,10 @@ LABEL vendor=BOdataFactory \
       BusinessOBj-API.release-date="2023-27-2"
 
 
+ENV DEV 
+
+RUN echo "hello world" >> base.txt
+
+#documentage / App landing page 
 
     
