@@ -28,6 +28,7 @@ Network
 
 
 Onboarding documentation: 
-![ccc-tool and dashboard][dashboard]
+![alt text][dashboard]
 
-[logo]: https://github.com/andrewpsp/edge-compute-factorymarkdown-here/raw/master/images/ccc-tool-dashboard.png "ccc dashbaord"
+[dashboard]: https://github.com/andrewpsp/edge-compute-factory/blob/main/images/ccc-tool-dashboard.png "ccc-tool download and ccc dashboard"
+
