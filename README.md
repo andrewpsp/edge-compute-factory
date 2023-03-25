@@ -1,6 +1,11 @@
 # edge-compute-factory
 
 
+# Product Cataloo buildout - 
+Accept Input for each proposaled web3 item 
+
+
+
 # iOT callcenter products 
 
 # Access Edge Compute Factory  
